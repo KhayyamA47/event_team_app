@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="Group_17148" data-name="Group 17148" transform="translate(-20 -509)">
+    <circle id="logo" cx="20" cy="20" r="20" transform="translate(20 509)" fill="#00c4dd"/>
+    <g id="record_voice_over" data-name="record voice over" transform="translate(-829.421 141.324)">
+      <rect id="Path" width="24" height="24" transform="translate(857.421 375.676)" fill="#fff" opacity="0"/>
+      <g id="Group_17157" data-name="Group 17157" transform="translate(1 -2.811)">
+        <path id="Path_36570" data-name="Path 36570" d="M873.8,392.113a14.558,14.558,0,0,0-11.25,0c-2.79,1.125-3.375,2.452-3.375,3.375h0a2.251,2.251,0,0,0,2.25,2.25h13.5a2.25,2.25,0,0,0,2.25-2.25h0C877.172,394.554,876.587,393.226,873.8,392.113Zm-10.56,3.375a.445.445,0,0,1-.19-.847,15.778,15.778,0,0,1,2.323-.751,11.079,11.079,0,0,1,5.608,0,15.715,15.715,0,0,1,2.328.753.445.445,0,0,1-.19.847Z" transform="translate(0.249 1.249)" fill="#fff"/>
+        <path id="Path_36572" data-name="Path 36572" d="M868.172,380.987a5,5,0,1,0,5,5A5,5,0,0,0,868.172,380.987Zm0,7.5a2.5,2.5,0,1,1,2.5-2.5A2.5,2.5,0,0,1,868.172,388.487Z" transform="translate(0.249)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
